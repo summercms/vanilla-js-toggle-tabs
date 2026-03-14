@@ -19,7 +19,7 @@
 		"gulp-flatmap": "1.0.2",
 		"gulp-header": "2.0.5",
 		"gulp-rename": "1.4.0",
-		"jshint": "2.9.6",
+		"jshint": "2.13.6",
 		"gulp-jshint": "2.1.0",
 		"jshint-stylish": "2.2.1",
 		"gulp-concat": "2.6.1",
